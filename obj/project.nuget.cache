@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5JOfl2hvGF3aJyZLhBIV4L2ftsTOC3vL16Zo3rh3q0ILQvTCGyeCG9coxW99gOQ6BYoeXoUU0GD7ZkBpT96Wcg==",
+  "success": true,
+  "projectFilePath": "D:\\Aulas\\DIO\\C#\\DesafioDio\\DIO - Trilha .NET - Explorando a linguagem C#\\trilha-net-explorando-desafio\\DesafioProjetoHospedagem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dankvep PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dankvep PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dankvep PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dankvep PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

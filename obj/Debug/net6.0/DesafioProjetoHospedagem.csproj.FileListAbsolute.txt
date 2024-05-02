@@ -1,0 +1,15 @@
+D:\Aulas\DIO\C#\DesafioDio\DIO - Trilha .NET - Explorando a linguagem C#\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+D:\Aulas\DIO\C#\DesafioDio\DIO - Trilha .NET - Explorando a linguagem C#\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+D:\Aulas\DIO\C#\DesafioDio\DIO - Trilha .NET - Explorando a linguagem C#\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+D:\Aulas\DIO\C#\DesafioDio\DIO - Trilha .NET - Explorando a linguagem C#\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+D:\Aulas\DIO\C#\DesafioDio\DIO - Trilha .NET - Explorando a linguagem C#\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+D:\Aulas\DIO\C#\DesafioDio\DIO - Trilha .NET - Explorando a linguagem C#\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\DIO\C#\DesafioDio\DIO - Trilha .NET - Explorando a linguagem C#\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+D:\Aulas\DIO\C#\DesafioDio\DIO - Trilha .NET - Explorando a linguagem C#\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+D:\Aulas\DIO\C#\DesafioDio\DIO - Trilha .NET - Explorando a linguagem C#\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+D:\Aulas\DIO\C#\DesafioDio\DIO - Trilha .NET - Explorando a linguagem C#\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.sourcelink.json
+D:\Aulas\DIO\C#\DesafioDio\DIO - Trilha .NET - Explorando a linguagem C#\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+D:\Aulas\DIO\C#\DesafioDio\DIO - Trilha .NET - Explorando a linguagem C#\trilha-net-explorando-desafio\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+D:\Aulas\DIO\C#\DesafioDio\DIO - Trilha .NET - Explorando a linguagem C#\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+D:\Aulas\DIO\C#\DesafioDio\DIO - Trilha .NET - Explorando a linguagem C#\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+D:\Aulas\DIO\C#\DesafioDio\DIO - Trilha .NET - Explorando a linguagem C#\trilha-net-explorando-desafio\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
